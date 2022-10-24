@@ -43,7 +43,7 @@ Now that you have all the required software and materials, you need to do the fo
 
 2. Click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the Python-Fundamentals folder you downloaded above.
 
-3. Open the lessons folder, then open 01_Introduction.ipynb to begin.
+3. Open the lessons folder, then open 01_introduction.ipynb to begin.
 
 Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
