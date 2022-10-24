@@ -12,7 +12,7 @@ No prior experience with R is required.
 
 ## Installation Instructions
 
-## Using DataHub
+### Using DataHub
 We will use Jupyter to go through the workshop materials.
 
 [ADD DATAHUB LINK]
@@ -22,7 +22,7 @@ Some users may have to click the link twice if the materials do not load initial
 The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in an RStudio instance on UC Berkeley's servers. No installation is needed from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `R-Haas-Workshop` folder.
 
 
-## Optional: Local installation
+### Optional: Local installation
 If you want to downloading the workshop materials locally: 
 
 * Click the green "Code" button in the top right of the repository information.
