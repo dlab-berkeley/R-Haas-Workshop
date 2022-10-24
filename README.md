@@ -30,7 +30,7 @@ If you want to downloading the workshop materials locally:
 * Click "Download Zip".
 * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 
-If you're familiar with git, you can instead clone this repository by opening a terminal and entering git clone https://dlab-berkeley/R-Haas-Workshop.git. 
+If you're familiar with git, you can instead clone this repository by opening a terminal and entering `git clone https://dlab-berkeley/R-Haas-Workshop.git`. 
 
 ## Run the Code
 
