@@ -41,7 +41,7 @@ Now that you have all the required software and materials, you need to do the fo
 
 1. Open the Anaconda Navigator application. You should see the green snake logo appear on your screen. Note that this can take a few minutes to load up the first time.
 
-2. Click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the Python-Fundamentals folder you downloaded above.
+2. Click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the R-Haas-Workshop folder you downloaded above.
 
 3. Open the lessons folder, then open 01_introduction.ipynb to begin.
 
