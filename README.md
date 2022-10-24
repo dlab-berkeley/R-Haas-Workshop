@@ -8,19 +8,26 @@ This is a lightweight module aimed to provide a brief introduction to R. Topics 
 - Introduction to R, navigating Jupyter Notebooks, variable assignment, data types and coercion, and data structures.
 - Working with data frames in R.
 
-Prior experience with R is not required.
-
 ## Installation Instructions
 
+## Using DataHub
 We will use Jupyter to go through the workshop materials.
 
-3. Download the workshop materials: 
+[ADD DATAHUB LINK]
+
+Some users may have to click the link twice if the materials do not load initially.
+
+The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in an RStudio instance on UC Berkeley's servers. No installation is needed from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `R-Haas-Workshop` folder.
+
+
+## Opetional: Local installation
+If you want to downloading the workshop materials locally: 
 
 * Click the green "Code" button in the top right of the repository information.
 * Click "Download Zip".
 * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 
-4. Optional: if you're familiar with git, you can instead clone this repository by opening a terminal and entering git clone git@github.com:dlab-berkeley/R-Haas-Workshop.git.
+Optional: if you're familiar with git, you can instead clone this repository by opening a terminal and entering git clone git@github.com:dlab-berkeley/R-Haas-Workshop.git.
 
 ## Run the Code
 
@@ -34,16 +41,6 @@ Now that you have all the required software and materials, you need to run the c
 
 Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
-
-## Is R not working on your laptop?
-
-If you do not have R installed and the materials loaded on your workshop by the time it starts, we strongly recommend using the UC Berkeley Datahub to run the materials for these lessons. You can access the DataHub by clicking this button: 
-
-[![Datahub](ADD LINK)
-
-Some users may have to click the link twice if the materials do not load initially.
-
-The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in an RStudio instance on UC Berkeley's servers. No installation is needed from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `R-Haas-Workshop` folder.
 
 # Additional Resources
 
