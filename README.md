@@ -16,12 +16,13 @@ We will use Jupyter on the Haas JupyterHub to go through the workshop materials.
 
 ### Using DataHub
 
+We *strongly* recommend using the UC Berkeley Datahub to run the materials for these lessons. You can access the DataHub by clicking this button: 
+
 [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://mba200a-fall-2022.haastech.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
 
 Some users may have to click the link twice if the materials do not load initially.
 
-The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in an RStudio instance on UC Berkeley's servers. No installation is needed from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `R-Haas-Workshop` folder.
-
+The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in an instance on UC Berkeley's servers. No installation is needed from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. 
 
 ### Optional: Local installation
 If you want to downloading the workshop materials locally: 
