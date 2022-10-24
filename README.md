@@ -1,11 +1,15 @@
 # D-Lab's R Haas Workshop
 
-This repository contains the materials for D-Lab's R Workshop for Haas.
+This repository contains the materials for D-Lab's 90-minute R Workshop for Haas.
 
 ## Goals
 
-This is a lightweight module aimed to provide a brief introduction to R. Topics include
-- Introduction to R, navigating Jupyter Notebooks, variable assignment, data types and coercion, and data structures.
+This is a lightweight module aimed to provide a brief introduction to R. Topics include:
+- Introduction to R;
+- Navigating Jupyter Notebooks;
+- Variable assignment;
+- Data types and coercion;
+- Data structures;
 - Working with data frames in R.
 
 No prior experience with R is required.
