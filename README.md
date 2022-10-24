@@ -12,8 +12,9 @@ No prior experience with R is required.
 
 ## Installation Instructions
 
+We will use Jupyter on the Haas JupyterHub to go through the workshop materials.
+
 ### Using DataHub
-We will use Jupyter to go through the workshop materials.
 
 [ADD DATAHUB LINK]
 
@@ -29,7 +30,7 @@ If you want to downloading the workshop materials locally:
 * Click "Download Zip".
 * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 
-Optional: if you're familiar with git, you can instead clone this repository by opening a terminal and entering git clone git@github.com:dlab-berkeley/R-Haas-Workshop.git.
+If you're familiar with git, you can instead clone this repository by opening a terminal and entering git clone https://dlab-berkeley/R-Haas-Workshop.git. 
 
 ## Run the Code
 
@@ -66,6 +67,7 @@ as well as the following books:
 * [Matloff N. 2011. The art of R programming: A tour of statistical software design](https://www.nostarch.com/artofr.htm)  
 * [Brunsdon C, Comber L. 2015. An Introduction to R for Spatial Analysis and Mapping](https://us.sagepub.com/en-us/nam/an-introduction-to-r-for-spatial-analysis-and-mapping/book241031)
 * [James G, Witten D, Hastie T, Tibshirani R. 2013. An Introduction to Statistical Learning: With Applications in R, 7th edition](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
 # About the UC Berkeley D-Lab
 
 D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels, and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops such as R Fundamentals, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.
