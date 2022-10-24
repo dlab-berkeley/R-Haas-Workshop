@@ -37,7 +37,7 @@ If you want to downloading the workshop materials locally:
 
 If you're familiar with git, you can instead clone this repository by opening a terminal and entering `git clone https://dlab-berkeley/R-Haas-Workshop.git`. 
 
-Now that you have all the required software and materials, you need to run the code:
+Now that you have all the required software and materials, you need to do the following:
 
 1. Open the Anaconda Navigator application. You should see the green snake logo appear on your screen. Note that this can take a few minutes to load up the first time.
 
