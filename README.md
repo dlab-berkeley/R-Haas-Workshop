@@ -33,7 +33,7 @@ If you want to downloading the workshop materials locally:
 
 If you're familiar with git, you can instead clone this repository by opening a terminal and entering `git clone https://dlab-berkeley/R-Haas-Workshop.git`. 
 
-## Run the Code
+### Run the Code
 
 Now that you have all the required software and materials, you need to run the code:
 
