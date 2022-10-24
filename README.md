@@ -1,6 +1,6 @@
-# D-Lab's R HAAS Workshop
+# D-Lab's R Haas Workshop
 
-This repository contains the materials for D-Lab's R Workshop for HAAS. No prior experience with R is required.
+This repository contains the materials for D-Lab's R Workshop for Haas. No prior experience with R is required.
 
 ## Goals
 
@@ -20,7 +20,7 @@ We will use Jupyter to go through the workshop materials.
 * Click "Download Zip".
 * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 
-4. Optional: if you're familiar with git, you can instead clone this repository by opening a terminal and entering git clone git@github.com:dlab-berkeley/R-HAAS-Workshop.git.
+4. Optional: if you're familiar with git, you can instead clone this repository by opening a terminal and entering git clone git@github.com:dlab-berkeley/R-Haas-Workshop.git.
 
 ## Run the Code
 
@@ -39,11 +39,11 @@ Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
 If you do not have R installed and the materials loaded on your workshop by the time it starts, we strongly recommend using the UC Berkeley Datahub to run the materials for these lessons. You can access the DataHub by clicking this button: 
 
-[![Datauhb](ADD LINK)
+[![Datahub](ADD LINK)
 
 Some users may have to click the link twice if the materials do not load initially.
 
-The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in an RStudio instance on UC Berkeley's servers. No installation is needed from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `R-HAAS-Workshop` folder.
+The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in an RStudio instance on UC Berkeley's servers. No installation is needed from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `R-Haas-Workshop` folder.
 
 # Additional Resources
 
