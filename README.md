@@ -1,8 +1,10 @@
-# D-Lab's R Haas Workshop
+# D-Lab R Haas Workshop
+
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://mba200a-fall-2022.haastech.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
 
 This repository contains the materials for D-Lab's 90-minute R Workshop for Haas.
 
-## Goals
+# Workshop Goals
 
 This is a lightweight module aimed to provide a brief introduction to R. Topics include:
 - Introduction to R;
@@ -14,11 +16,11 @@ This is a lightweight module aimed to provide a brief introduction to R. Topics 
 
 No prior experience with R is required.
 
-## Installation Instructions
+# Installation Instructions
 
 We will use Jupyter on the Haas JupyterHub to go through the workshop materials.
 
-### Using DataHub
+## Using DataHub
 
 We *strongly* recommend using the Haas Datahub to run the materials for these lessons. You can access the DataHub by clicking this button: 
 
@@ -27,26 +29,6 @@ We *strongly* recommend using the Haas Datahub to run the materials for these le
 Some users may have to click the link twice if the materials do not load initially.
 
 The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in an instance on UC Berkeley's servers. No installation is needed from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. 
-
-### Optional: Local installation
-If you want to downloading the workshop materials locally: 
-
-* Click the green "Code" button in the top right of the repository information.
-* Click "Download Zip".
-* Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-
-If you're familiar with git, you can instead clone this repository by opening a terminal and entering `git clone https://dlab-berkeley/R-Haas-Workshop.git`. 
-
-Now that you have all the required software and materials, you need to do the following:
-
-1. Open the Anaconda Navigator application. You should see the green snake logo appear on your screen. Note that this can take a few minutes to load up the first time.
-
-2. Click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the R-Haas-Workshop folder you downloaded above.
-
-3. Open the lessons folder, then open 01_introduction.ipynb to begin.
-
-Press Shift + Enter (or Ctrl + Enter) to run a cell.
-
 
 # Additional Resources
 
@@ -96,5 +78,4 @@ Here are other R workshops offered by the D-Lab:
 
 # Contributors
 * [Pratik Sachdeva](https://github.com/pssachdeva)
-* [Alex Stephenson](https://github.com/asteves/)
-* [Avery Richards](https://github.com/Averysaurus)
+* [Tom van Neunen](https://github.com/tomvannuenen)
