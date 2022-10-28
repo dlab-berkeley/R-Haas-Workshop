@@ -1,6 +1,8 @@
 # D-Lab R Haas Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://mba200a-fall-2022.haastech.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
+[![D-Lab DataHub](https://img.shields.io/badge/launch-D--Lab%20datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
+[![Haas DataHub](https://img.shields.io/badge/launch-Haas%20datahub-%2304a56b)](https://mba200a-fall-2022.haastech.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
+
 
 This repository contains the materials for D-Lab's 90-minute R Workshop for Haas.
 
@@ -22,9 +24,10 @@ We will use Jupyter on the Haas JupyterHub to go through the workshop materials.
 
 ## Using DataHub
 
-We *strongly* recommend using the Haas Datahub to run the materials for these lessons. You can access the DataHub by clicking this button: 
+We *strongly* recommend using either the D-Lab or Haas DataHub to run the materials for these lessons. You can access either DataHub by clicking one of the two buttons: 
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://mba200a-fall-2022.haastech.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
+[![D-Lab DataHub](https://img.shields.io/badge/launch-D--Lab%20datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
+[![Haas DataHub](https://img.shields.io/badge/launch-Haas%20datahub-%2304a56b)](https://mba200a-fall-2022.haastech.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
 
 Some users may have to click the link twice if the materials do not load initially.
 
