@@ -1,8 +1,6 @@
 # D-Lab R Haas Workshop
 
 [![D-Lab DataHub](https://img.shields.io/badge/launch-D--Lab%20datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
-[![Haas DataHub](https://img.shields.io/badge/launch-Haas%20datahub-%2304a56b)](https://mba200a-fall-2022.haastech.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
-
 
 This repository contains the materials for D-Lab's 90-minute R Workshop for Haas.
 
@@ -12,7 +10,6 @@ This is a lightweight module aimed to provide a brief introduction to R. Topics 
 - Introduction to R;
 - Navigating Jupyter Notebooks;
 - Variable assignment;
-- Data types and coercion;
 - Data structures;
 - Working with data frames in R.
 
@@ -27,7 +24,6 @@ We will use Jupyter on the Haas JupyterHub to go through the workshop materials.
 We *strongly* recommend using either the D-Lab or Haas DataHub to run the materials for these lessons. You can access either DataHub by clicking one of the two buttons: 
 
 [![D-Lab DataHub](https://img.shields.io/badge/launch-D--Lab%20datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
-[![Haas DataHub](https://img.shields.io/badge/launch-Haas%20datahub-%2304a56b)](https://mba200a-fall-2022.haastech.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-Haas-Workshop&urlpath=tree%2FR-Haas-Workshop%2Flessons%2F01_introduction.ipynb&branch=main)
 
 Some users may have to click the link twice if the materials do not load initially.
 
