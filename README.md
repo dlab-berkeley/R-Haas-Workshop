@@ -4,6 +4,8 @@
 
 This repository contains the materials for D-Lab's 90-minute R Workshop for Haas.
 
+Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
+
 # Workshop Goals
 
 This is a lightweight module aimed to provide a brief introduction to R. Topics include:
